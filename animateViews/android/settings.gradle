@@ -1,0 +1,3 @@
+rootProject.name = 'animateViews'
+
+include ':app'

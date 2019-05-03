@@ -1,0 +1,3 @@
+rootProject.name = 'reactnativebookex1'
+
+include ':app'
